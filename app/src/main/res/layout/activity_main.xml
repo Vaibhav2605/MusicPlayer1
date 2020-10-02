@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Play"
         tools:layout_editor_absoluteX="147dp"
-        tools:layout_editor_absoluteY="230dp" />
+        tools:layout_editor_absoluteY="240dp" />
 
     <SeekBar
         android:id="@+id/mSeekbar"
